@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**tristyb/tristyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a few freelance jobs but trying to take it easy because... *gestures at everything*
+- 🌱 I’m currently learning Nuxt and Vue more in-depth
+- 👯 I’m looking to collaborate in the future with others on getting websites built for clients
+- 🤔 I’m looking for help with being more helpful in the community
+- 💬 Ask me about how many cups of tea I have a day
+- 📫 How to reach me: 
+  - [🐦 @tristyb](https://www.twitter.com/tristyb) 
+  - [📸 @_tristyb](https://www.instagram.com/tristy_b)
+  - [👩🏻‍💻 www](https://tristanbrook.es)
+- 😄 Pronouns: (He/Him)
+- ⚡ Fun fact: I am depressingly un-fun so can't offer you a fun fact.
