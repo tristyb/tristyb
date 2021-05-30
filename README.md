@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a few freelance jobs but trying to take it easy because... *gestures at everything*
 - 🌱 I’m currently learning Nuxt and Vue more in-depth as well as looking at Express.js (secret project coming soon).
-- 👯 I’m looking to collaborate in the future with others on getting websites built for clients.
+- 👯 I’m looking to collaborate in the future with others.
 - 🤔 I’m looking at being more helpful in the web dev community once I figure out how.
 - 💬 Ask me about how many cups of tea I have a day
 - 📫 How to reach me: 
